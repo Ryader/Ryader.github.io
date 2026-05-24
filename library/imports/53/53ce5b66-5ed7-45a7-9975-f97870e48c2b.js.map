@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets\\Script\\IBlockClickHandler.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["import Block from \"./Block\";\n\nexport default interface IBlockClickHandler {\n    onBlockClicked(block: Block): void;\n}\n"]}
