@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\BoosterType.ts"],"names":[],"mappings":";;;;;;;AAAA,IAAY,WAIX;AAJD,WAAY,WAAW;IACnB,6CAAQ,CAAA;IACR,6CAAQ,CAAA;IACR,qDAAY,CAAA;AAChB,CAAC,EAJW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAItB","file":"","sourceRoot":"/","sourcesContent":["export enum BoosterType {\n    None = 0,\n    Bomb = 1,\n    Teleport = 2,\n}\n"]}

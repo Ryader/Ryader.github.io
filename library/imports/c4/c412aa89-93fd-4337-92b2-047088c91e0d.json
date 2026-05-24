@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "slot_booster",
+    "texture": "c42686c2-cf91-4e9c-ad26-c84abe5ccce5",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      115,
+      110
+    ],
+    "offset": [
+      -2.5,
+      0.5
+    ],
+    "originalSize": [
+      122,
+      113
+    ],
+    "capInsets": [
+      39.5,
+      42.5,
+      44.5,
+      41.5
+    ]
+  }
+}
